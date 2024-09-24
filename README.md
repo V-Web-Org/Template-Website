@@ -8,8 +8,12 @@
 
 ![alt text](image-3.png)
 
-# Open the files in VS Code or and other code editor and edit them.
-VS Code download links:https://code.visualstudio.com   https://code.visualstudio.com/download
+# Download VS Code
+VS Code download links: [VS Code Web](https://code.visualstudio.com)  [VS Code Download](https://code.visualstudio.com/download)
 
 ![alt text](image.png)
 ![alt text](image-2.png)
+
+# Launch VS Code and go to files, open folder, create a new folder and open it. Then move the index.html file to that folder. If you are stuck on this step, use tutorials on [Youtube](https://www.youtube.com/).
+
+![alt text](image-1.png)
