@@ -6,10 +6,10 @@
 
 # Download either of the files:
 
-![image](https://github.com/user-attachments/assets/47693a92-4803-49af-acc4-8a23627c6a36)
+![alt text](image-3.png)
 
 # Open the files in VS Code or and other code editor and edit them.
-# VS Code download links: https://code.visualstudio.com/
-                        https://code.visualstudio.com/download
+# VS Code download links:https://code.visualstudio.com   https://code.visualstudio.com/download
+
 ![alt text](image.png)
 ![alt text](image-2.png)
