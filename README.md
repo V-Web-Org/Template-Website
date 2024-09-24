@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/8b808b76-2d71-42d9-8e87-ae0b06ff3cf5)
 
-# Download either of the files:
+# Download only the index.html file
 
 ![alt text](image-3.png)
 
